@@ -214,3 +214,14 @@
     - utter_ask_back_to_transfer
 * deny
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* thankyou
+    - action_default_fallback
+* search_transactions
+    - action_default_fallback
+* deny
+    - utter_ok
