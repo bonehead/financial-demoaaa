@@ -134,6 +134,7 @@
 - for saturday
 - I want to pay the [minimum balance](payment_amount) on my [gringots](credit_card) credit card today
 - today
+- provide an available room
 
 ## intent:pay_cc
 - I would like to pay the [minimum balance](payment_amount) on my [gringtos](credit_card) card
@@ -203,3 +204,4 @@
 - transfer money
 - I want to transfer $100 to John
 - i want to transfer $400 to Akela
+- karen

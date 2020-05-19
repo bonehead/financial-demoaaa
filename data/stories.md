@@ -214,3 +214,14 @@
     - utter_ask_back_to_transfer
 * deny
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* inform
+    - transfer_form
+    - form{"name":"transfer_form"}
+    - slot{"requested_slot":"PERSON"}
+* transfer_money
+    - action_default_fallback
