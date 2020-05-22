@@ -225,3 +225,10 @@
     - slot{"requested_slot":"PERSON"}
 * transfer_money
     - action_default_fallback
+
+## New Story
+
+* greet
+    - utter_greet
+* check_balance
+    - action_account_balance
